@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\indraneel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\indraneel\\.nuget\\packages"
+    ]
+  }
+}
